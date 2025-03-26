@@ -428,9 +428,7 @@ dd {
 .video-container object,
 .video-container embed,
 .video-container video {
-  position: absolute;
-  top: 0;
-  left: 0;
+ 
   aspect-ratio: 9 / 16;
   width: 100%;
   max-width: 100%;
